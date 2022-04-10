@@ -36,7 +36,7 @@
 }
 
 *::selection{
-    background:var(--darkgreen);
+    background:var(--yellow);
     color:#333;
 }
 
@@ -55,7 +55,7 @@ html::-webkit-scrollbar-track{
 }
 
 html::-webkit-scrollbar-thumb{
-    background:var(--darkgreen);
+    background:var(--yellow);
 }
 
 body{
